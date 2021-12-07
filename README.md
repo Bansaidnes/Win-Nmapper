@@ -8,5 +8,6 @@ A C# console application using that enters all nmap commands into the terminal f
 Requirements:                                                                                                                                                                 
  -Nmap                                                                                                                                                                     
  -Linux                                                                                                                                                                   
- -Gnome desktop environment                                                                                                                                                       
+ -Gnome desktop environment                                                                                                                                                     
+ -dotnet core 3.1                                                                                                                                                                 
  -Winchester school, Jebel ali (though you can edit the CS file and change the Vlan to whatever you want)
