@@ -5,8 +5,8 @@ A C# console application that enters all nmap commands into the terminal for you
 (Only works on linux)                                                                                                                                                       
 (you have to build it yourself lol)                                                                                                                                 
 
-Requirements:
- -Nmap
- -Linux 
- -Gnome desktop environment 
+Requirements:                                                                                                                                                                 
+ -Nmap                                                                                                                                                                     
+ -Linux                                                                                                                                                                   
+ -Gnome desktop environment                                                                                                                                                       
  -Winchester school, Jebel ali (though you can edit the CS file and change the Vlan to whatever you want)
